@@ -1,0 +1,11 @@
+[
+  {"name": "NLnet Foundation", "category": "infrastructure", "url": "https://nlnet.nl/"},
+  {"name": "Sovereign Tech Fund", "category": "infrastructure", "url": "https://www.sovereign.tech/"},
+  {"name": "Open Technology Fund", "category": "infrastructure", "url": "https://www.opentech.fund/"},
+  {"name": "GitHub Secure Open Source Fund", "category": "security", "url": "https://resources.github.com/security/secure-open-source-fund/"},
+  {"name": "Alpha-Omega", "category": "security", "url": "https://alpha-omega.dev/"},
+  {"name": "OpenSSF", "category": "security", "url": "https://openssf.org/"},
+  {"name": "Mozilla Foundation", "category": "mozilla", "url": "https://foundation.mozilla.org/"},
+  {"name": "Protocol Labs", "category": "protocol", "url": "https://protocol.ai/"},
+  {"name": "Ethereum Foundation", "category": "protocol", "url": "https://ethereum.org/foundation/"}
+]
