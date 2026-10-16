@@ -1,6 +1,6 @@
 # Build Grants
 
-A catalog of **official grants and fellowships for building open source, security, and public-interest tech** — NLnet, Mozilla, GitHub Secure OSS, protocol foundations, and similar. Not scholarships-for-tuition (see sister repo) and **never** “pay us to review your grant.” You can [Navigation](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
+A catalog of **official grants and fellowships for building open source, security, and public-interest tech** — NLnet, Mozilla, GitHub Secure OSS, protocol foundations, and similar. Not scholarships-for-tuition (see sister repo) and **never** “pay us to review your grant.” You can [navigate](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
 
 > **Disclaimer:** Deadlines, eligibility, and amounts change. Apply only on **official** domains. Open a PR to fix stale links.
 
